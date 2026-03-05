@@ -234,15 +234,24 @@ Source: India CPCB / SIM-air Working Paper Series #46-2021
 
 ---
 
-## Setup
+## Getting Started
+
+### Step 1 — Clone the repository
+
+```bash
+git clone https://github.com/Harshith029/aqi-reflex-agent.git
+cd aqi-reflex-agent
+```
+
+### Step 2 — Install dependencies
 
 ```bash
 pip install pandas matplotlib numpy
 ```
 
----
+> If `pip` is not recognized, use `python -m pip install pandas matplotlib numpy`
 
-## Usage
+## Step 3 - Run the Agent
 
 ```bash
 # Latest row, simple reflex agent

@@ -11,7 +11,7 @@ to grow in complexity as the course progresses.
 | Name                  | Roll Number   |
 |-----------------------|---------------|
 | Pali Krishna Harshith | SE24UCSE001   |
-| Abhijit  Jillellamud | SE24UCSE018   |
+| Abhijit  Jillellamudi | SE24UCSE018   |
 | Mayank Rao Ponnala    | SE24UCSE026   |
 | Kamal Kumar Nampall  | SE24UCSE110   |
 

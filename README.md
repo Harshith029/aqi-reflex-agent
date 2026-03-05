@@ -12,7 +12,7 @@ to grow in complexity as the course progresses.
 |-----------------------|---------------|
 | Pali Krishna Harshith | SE24UCSE001   |
 | Abhijit  Jillellamud | SE24UCSE018   |
-| Mayank Rao Ponnal    | SE24UCSE026   |
+| Mayank Rao Ponnala    | SE24UCSE026   |
 | Kamal Kumar Nampall  | SE24UCSE110   |
 
 ---
